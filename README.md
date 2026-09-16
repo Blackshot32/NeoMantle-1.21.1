@@ -22,6 +22,7 @@ Neo Mantle es la biblioteca de soporte requerida por **[Neo Tinkers](https://git
 - Manejo de renderizado dinámico de fluidos (`FluidRenderer`, `FluidCuboid`).
 - Infraestructura de datos de recetas e inventarios inteligentes (`SmartInventory`).
 - Soporte para capacidades de bloque (`BlockCapability`) y registro en NeoForge.
+- **Localización Completa al Español**: Incorpora archivos de idioma `es_es.json` y `es_mx.json` para mensajes de sistema, herramientas y formato de fluidos.
 
 ---
 
