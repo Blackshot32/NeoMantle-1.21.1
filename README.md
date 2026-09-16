@@ -10,9 +10,15 @@
 
 ---
 
+## 📥 Descarga Directa (.jar listo para jugar)
+
+* 📥 [**Descargar NeoMantle-1.21.1-1.21.0-v1.25.jar** (1.6 MB)](https://github.com/Blackshot32/NeoMantle-1.21.1/raw/main/downloads/NeoMantle-1.21.1-1.21.0-v1.25.jar)
+
+---
+
 ## 📦 Descripción y Requisitos
 
-Neo Mantle es la biblioteca de soporte requerida por **Tinkers' Construct (NeoTinkers)**. No añade contenido jugable por sí sola, pero contiene:
+Neo Mantle es la biblioteca de soporte requerida por **[Neo Tinkers](https://github.com/Blackshot32/NeoTinkers-1.21.1)**. No añade contenido jugable por sí sola, pero contiene:
 - Manejo de renderizado dinámico de fluidos (`FluidRenderer`, `FluidCuboid`).
 - Infraestructura de datos de recetas e inventarios inteligentes (`SmartInventory`).
 - Soporte para capacidades de bloque (`BlockCapability`) y registro en NeoForge.
